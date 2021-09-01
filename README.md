@@ -1,1 +1,1 @@
-# salon
+# static-website
